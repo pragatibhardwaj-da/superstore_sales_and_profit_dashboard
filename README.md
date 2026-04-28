@@ -31,7 +31,7 @@ The dashboard allows dynamic filtering by:
 
 ###  Time Analysis
 - Sales and Profit over Time (trend analysis)
-- 
+ 
 ###  Category & Regional Insights
 - Sales by Category
 - Sales by Region
