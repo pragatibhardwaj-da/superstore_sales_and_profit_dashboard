@@ -54,8 +54,10 @@ The dashboard allows dynamic filtering by:
 - Excel 
 - Data Cleaning: Excel / Power Query 
 
-## Dashboard Preview
+## Files
  - Dashboard Screenshot
+ - Dashboard
+ - Raw Dataset
 
 ##  How to Use
 1. Download the dashboard file
