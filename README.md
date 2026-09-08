@@ -1,63 +1,45 @@
 # Superstore Sales and Profit Dashboard Project
 
 ##  Overview
-This project showcases an interactive sales dashboard created to analyze business performance across different regions, categories, and customer segments.
+Interactive Excel dashboard analyzing 9,994 sales records to evaluate sales, profitability, product performance, customer segments, regional performance, and trends over time.
 
 The dataset used in this project was obtained from Kaggle.
  - Dataset: Superstore Dataset
  - Source: gaggle
  - Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-##  Objectives
-- Track overall business performance using key metrics
-- Analyze sales and profit trends over time
-- Identify top-performing products and regions
-- Understand customer segment profitability
-- Enable interactive data exploration using filters
-
-##  Key Performance Indicators (KPIs)
-- **Total Sales**
-- **Total Orders**
-- **Total Profit**
-
-## Slicers
-The dashboard allows dynamic filtering by:
-- Segment
-- Category
-- Year
-- Region
-
-##  Dashboard Visualizations
-
-###  Time Analysis
-- Sales and Profit over Time (trend analysis)
- 
-###  Category & Regional Insights
-- Sales by Category
-- Sales by Region
-- Sales by State
-- Sales by City
-
-###  Customer Insights
-- Profit by Customer Segment
-\
-### Product Performance
-- Top 10 Most Profitable Products
-
-##  Key Insights
-- Certain regions contribute significantly higher sales than others
-- Some product categories generate high sales but lower profit
-- Customer segments differ in profitability
-- A small number of products drive a large portion of profit
   
 ##  Tools Used
-- Excel 
-- Data Cleaning: Excel / Power Query 
+Microsoft Excel | Power Query | Pivot Tables | Slicers | Charts
 
-## Files
- - Dashboard Screenshot
- - Dashboard
- - Raw Dataset
+## Key KPIs
+Total Sales: $2.30M
+Total Profit: $286.4K
+Profit Margin: 12.47%
+
+## Key Insights
+Sales increased from $484.2K in 2014 to $733.2K in 2017, while
+profit increased from $49.5K to $93.4K.
+
+West was the strongest region, generating approximately
+$725.5K in sales and $108.4K in profit, with a 14.9% profit
+margin.
+
+Central generated approximately $501.2K in sales but had a
+much lower 7.9% profit margin.
+
+Technology was the largest category by sales at approximately
+$836.2K.
+
+The Consumer segment contributed the highest profit at
+approximately $134.1K.
+
+## Business Relevance
+The dashboard demonstrates how historical sales and profitability data
+can be used to identify performance trends and support business
+decision-making. These insights can also provide a foundation for future
+planning, forecasting, and profitability analysis.
+
 
 ##  How to Use
 1. Download the dashboard file
